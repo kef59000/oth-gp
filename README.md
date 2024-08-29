@@ -12,19 +12,19 @@
 ## Syllabus
 
 1. Learn Python
-1.1 Introduction
-1.2 Variables
-1.3 Functions
-1.4 Scope
-1.5 Testing and Debugging
-1.6 Lists
-1.7 Loops
-1.8 Dictionaries
-1.9 Sets
-1.10 Comparisons
-1.11 Errors
-1.12 Bringing it together: Helping AI Make Decisions
-1.13 Working with Files
+    1. Introduction
+    2. Variables
+    3. Functions
+    4. Scope
+    5. Testing and Debugging
+    6. Lists
+    7. Loops
+    8. Dictionaries
+    9. Sets
+    10. Comparisons
+    11. Errors
+    12. Bringing it together: Helping AI Make Decisions
+    13. Working with Files
 
 2. Learn Shells and Terminals
 
