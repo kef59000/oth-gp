@@ -61,7 +61,9 @@ Branches ermöglichen es, parallel an verschiedenen Funktionen oder Versionen ei
 * **Azure DevOps**
 
 **Git-Workflow:**
+
 ![alt text](git_workflow.jpeg)
 
 **Git-Flow:**
+
 ![alt text](feature_branches.svg)
