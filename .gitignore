@@ -1,6 +1,12 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Custom scripts
+extract_notebooks.sh
+
+# Custom outputs
+notebook_contents.txt
+
 # Python
 __pycache__/
 *.py[cod]
