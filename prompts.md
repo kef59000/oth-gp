@@ -1,0 +1,4 @@
+# Prompts
+
+## Jupyter Notebooks for the Exercises in "Basics of Programming"
+I am a professor for digital business management and i am teaching the course "basics of programming". The students are complete beginners. The course is based primarily on Python. Besides the lecture, there are tutorials (90 minutes) where the student can train the learned contents. For each tutorial session, I want to give the students a jupyter notebook that explains the contents but also provides exercises. Also I need sample solutions for the different exercises. Create jupyter notebookes for the following contents.
